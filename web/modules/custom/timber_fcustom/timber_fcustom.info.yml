@@ -1,0 +1,5 @@
+name: timber_fcustom
+type: module
+description: Alter form by using this custom module.
+core: 8.x
+package: Custom
